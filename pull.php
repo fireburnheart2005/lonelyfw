@@ -1,3 +1,3 @@
 <?php
 // write few logic to make strong security
-exec('git pull');
+shell_exec('git pull');
